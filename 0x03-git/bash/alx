@@ -1,2 +1,4 @@
 #!/bin/bash
-"ALX"
+update_script
+echo "ALX School"
+=======
